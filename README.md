@@ -13,15 +13,15 @@ NewsBot relies on Bing News API, offering access to a vast network of reputable 
 
 ## Accomplishments and Future Enhancements
 ### Accomplishments:
-[X] Connected to BingNewsAPI and Discord.
-[X] Implemented `\todaynews` command for retrieving the most recent news regarding specific keywords.
+- [x] Connected to BingNewsAPI and Discord.
+- [x] Implemented `\todaynews` command for retrieving the most recent news regarding specific keywords.
 
 ### Future Enhancements (Not Implemented Due to Discontinuation):
-[] Implement !help command for user assistance.
-[] Add functionality for news filtering based on language or region.
-[] Introduce functionality for news filtering based on source/website.
-[] Incorporate functionality for news filtering based on Bing News API categories.
-[] Implement scheduled news updates feature.
+- [ ] Implement !help command for user assistance.
+- [ ] Add functionality for news filtering based on language or region.
+- [ ] Introduce functionality for news filtering based on source/website.
+- [ ] Incorporate functionality for news filtering based on Bing News API categories.
+- [ ] Implement scheduled news updates feature.
 
 ## Setup
 1. Clone this repository.
